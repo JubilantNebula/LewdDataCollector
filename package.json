@@ -1,0 +1,22 @@
+{
+  "name": "lewddatacollector",
+  "version": "1.0.0",
+  "description": "Bot de Discord programado en Node.js orientado en creación de .json de forma local para almacenar enlaces de archivos multimedia e información de utilidad.",
+  "main": "lewddatacollector.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JubilantNebula/LewdDataCollector.git"
+  },
+  "author": "JubilantNebula",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JubilantNebula/LewdDataCollector/issues"
+  },
+  "homepage": "https://github.com/JubilantNebula/LewdDataCollector#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}

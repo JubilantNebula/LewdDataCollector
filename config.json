@@ -1,0 +1,7 @@
+{
+	"Token": "HolaSoyUnToken",
+	"Servidor": "1234567890",
+	"Filtro": ["general","spam","nsfw"],
+	"Nombre_Categorias": ["Multimedia","Mensaje"],
+	"HabilitarproxyURL": 1
+}
